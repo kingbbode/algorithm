@@ -5,4 +5,16 @@
 
 ***
 
-### 문제 번호
+### 문제
+
+#### 백준저지
+1. 없음
+
+#### 알고스팟
+1. 없음
+
+***
+
+> 1.개발 지식 정리  
+> [2. 알고리즘](http://kingbbode.github.io/algorithm/)    
+> [3. 세미나 노트](https://kingbbode.github.io/seminar/)  
