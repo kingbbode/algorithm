@@ -15,6 +15,6 @@
 
 ***
 
-> 1.개발 지식 정리  
+> [1. 개발 지식 정리](http://kingbbode.tistory.com) (*추후 github으로 이전 예정*)  
 > [2. 알고리즘](http://kingbbode.github.io/algorithm/)    
 > [3. 세미나 노트](https://kingbbode.github.io/seminar/)  
