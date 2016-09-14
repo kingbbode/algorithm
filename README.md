@@ -9,6 +9,7 @@
 
 #### 백준저지
 [1. 회전하는 큐](https://github.com/kingbbode/algorithm/tree/master/src/problem1021)
+[2. 벌집](https://github.com/kingbbode/algorithm/tree/master/src/problem2292)
 
 #### 알고스팟
 1. 없음
