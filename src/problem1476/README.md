@@ -1,10 +1,1 @@
-## 날짜 계산
-[날짜 계산](https://www.acmicpc.net/problem/1476)
-
-#### 상태 : 완료 
-
-#### 소요시간 : 30분
-> 공식 계산, 표현 30분
-
-#### 후기
-> 수학의 중요성!
+#[Kingbbode 개발노트 - algorithm](https://kingbbode.github.io/categories.html#algorithm-ref)

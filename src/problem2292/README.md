@@ -1,10 +1,1 @@
-## 벌집
-[벌집](https://www.acmicpc.net/problem/2292)
-
-#### 상태 : 완료  
-
-#### 소요시간 : 10분
-> 공식 계산, 표현 10분
-
-#### 후기
-> 규칙을 찾는 문제였던 것 같습니다. 규칙을 식으로 표현하는?. 규칙이 간단해서 쉬운 문제였습니다.
+#[Kingbbode 개발노트 - algorithm](https://kingbbode.github.io/categories.html#algorithm-ref)
